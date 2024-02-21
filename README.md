@@ -4,4 +4,4 @@ This repository holds SCALE models and the results of their simulations. The mod
 
 ## Structure
 
-Each folder relates to a corresponding reactor. The folders contain other folders, which might relatate to different levels of complexity from a pincell to a full core. These folders for each level include subfolders with different parameters applied to a simulation.
+Each folder relates to a corresponding reactor type containing folders with different projects. The folders contain other folders, which might relatate to different levels of complexity from a pincell to a full core. These folders for each level include subfolders with different parameters applied to a simulation.
