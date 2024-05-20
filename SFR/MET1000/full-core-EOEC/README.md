@@ -12,6 +12,6 @@ The following changes were introduced in our model:
 * The symmetry was exploited (wedge)
 * The statistical parameters were changed
 
-The reference solution was obtained via CSAS6 with the ENDF/B-VII.1-based SCALE 6.2 library and the disabled probability tables, providing a smaller bias, due to the issue in the SCALE 6.2 libraries (should have been fixed in the SCALE 6.3 libraries). 
+The reference solution was obtained via CSAS6 with the ENDF/B-VII.1-based SCALE 6.3 library. 
 
 
