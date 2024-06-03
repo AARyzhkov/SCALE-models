@@ -1,0 +1,70 @@
+ unit 10
+   media 70  vol= 3.07873E+05
+   media 11  vol= 8.09135E+05
+   media 12  vol= 8.11564E+05
+   media 13  vol= 8.09135E+05
+   media 14  vol= 8.00938E+05
+   media 15  vol= 8.03396E+05
+   media 70  vol= 4.55510E+05
+   media 70  vol= 2.84588E+05
+   media 30  vol= 1.14521E+06
+   media 40  vol= 2.03389E+06
+ unit 20
+   media 70  vol= 3.07297E+05
+   media 21  vol= 8.14751E+05
+   media 22  vol= 8.14599E+05
+   media 23  vol= 8.20337E+05
+   media 24  vol= 8.21673E+05
+   media 25  vol= 8.23253E+05
+   media 70  vol= 4.70872E+05
+   media 70  vol= 2.80975E+05
+   media 30  vol= 1.16671E+06
+   media 40  vol= 2.06124E+06
+ unit 30
+   media 70  vol= 8.29858E+06
+   media 30  vol= 1.88240E+06
+   media 40  vol= 3.34710E+06
+ unit 40
+   media 35  vol= 9.59437E+06
+   media 70  vol= 6.14653E+05
+   media 30  vol= 2.31750E+06
+   media 40  vol= 4.10661E+06
+ unit 50
+   media 40  vol= 1.25514E+06
+ unit 60
+   media 50  vol= 2.13972E+05
+   media 40  vol= 6.15383E+04
+   media 35  vol= 5.51628E+04
+   media 40  vol= 8.15451E+04
+ unit 70
+   media 40  vol= 2.51678E+04
+ unit 80
+   media 60  vol= 7.07980E+04
+   media 40  vol= 1.32062E+04
+   media 35  vol= 1.15972E+04
+   media 40  vol= 2.41052E+04
+ unit 90
+   media 40  vol= 1.46938E+04
+ unit 1
+   media 35  vol= 2.22858E+06
+   media 40  vol= 1.20384E+06
+ unit 2
+   media 35  vol= 2.25247E+06
+   media 40  vol= 1.22882E+06
+ unit 5
+   media 35  vol= 2.35284E+04
+   media 40  vol= 2.75510E+05
+   media 40  vol= 1.80580E+06
+   media 35  vol= 2.35801E+05
+   media 40  vol= 1.28299E+05
+ unit 6
+   media 35  vol= 8.22733E+03
+   media 40  vol= 1.33520E+05
+   media 40  vol= 6.82385E+05
+   media 35  vol= 9.04102E+04
+   media 40  vol= 4.85142E+04
+ unit 7
+   media 0  vol= 1.46997E+07
+ unit 8
+   media 80  vol= 4.01775E+07
+ unit 500

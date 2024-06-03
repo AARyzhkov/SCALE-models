@@ -425,6 +425,12 @@ read parm
     cet=1
     cfp=-1
 end parm
+read sams
+    prtgeom
+    prtimp
+    nohtml
+    coverx=252groupcov7.1
+end sams
 read geom
 '##############################################################################
 '#                           Fuel pins
